@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 void filling_matrix (double tab[2][3]) {
     for (int i = 0; i < 2; i++) {
         for (int j = 0; j < 3; j++) {
@@ -11,7 +10,6 @@ void filling_matrix (double tab[2][3]) {
         }
     }
 }
-
 
 void print_matrix (double tab[2][3]) {
     for (int i = 0; i < 2; i++) {
