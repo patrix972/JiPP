@@ -3,7 +3,6 @@
 using namespace std;
 int main() {
 
-
     double weight;
     double height;
     double bmi;
@@ -32,6 +31,4 @@ int main() {
         cout << "II stopien otylosci";   
     else
         cout << "otylosc skrajna";   
-     
-
 }
