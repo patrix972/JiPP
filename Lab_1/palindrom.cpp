@@ -2,6 +2,11 @@
 using namespace std;
 int main(int argc, char *argv[]) {
 
+    if (argc == 1) {
+        cout << "Brak argumentu";
+        return 0;
+    }
+
     string word = argv[1];
  
     for (int i = 0; i < word.size() / 2; i++) {

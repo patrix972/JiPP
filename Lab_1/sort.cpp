@@ -2,7 +2,10 @@
 using namespace std;
 int main(int argc, char *argv[]) {
 
-    
+    if (argc == 1) {
+		cout << "Brak argumentow";
+		return 0;
+	}
 
 	for (int i = 0; i < argc; i++)
 		for (int j = 2; j < argc - i; j++)
