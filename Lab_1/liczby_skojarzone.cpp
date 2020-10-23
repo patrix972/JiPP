@@ -13,7 +13,6 @@ int sum_dividers (int number) {
     return sum;    
 }
 
-
 int main() {
     int a, b, sum_a, sum_b;
     cout << "Podaj liczby a i b: ";
