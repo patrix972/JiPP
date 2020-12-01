@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
+../include/Lab_4/Matrix.hpp
+iostream
+-
+
 C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_4/src/Matrix.cpp
-Matrix.hpp
-C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_4/src/Matrix.hpp
+Lab_4/Matrix.hpp
+C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_4/src/Lab_4/Matrix.hpp
 iostream
 -
 fstream
@@ -18,13 +22,9 @@ time.h
 string
 -
 
-C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_4/src/Matrix.hpp
-iostream
--
-
 C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_4/src/main.cpp
 iostream
 -
-Matrix.hpp
-C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_4/src/Matrix.hpp
+Lab_4/Matrix.hpp
+C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_4/src/Lab_4/Matrix.hpp
 
