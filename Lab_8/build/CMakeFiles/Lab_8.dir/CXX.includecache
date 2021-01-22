@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Patryk/Desktop/visual_code/JiPP/Lab_8/src/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+windows.h
+-
+
