@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\cmake-3.19.0-win64-x64\bin\cmake.exe" -E rm -f CMakeFiles\sql.dir/objects.a
+C:\PROGRA~1\MinGW\bin\ar.exe cr CMakeFiles\sql.dir/objects.a @CMakeFiles\sql.dir\objects1.rsp
+C:\PROGRA~1\MinGW\bin\G__~1.EXE -Wl,--whole-archive CMakeFiles\sql.dir/objects.a -Wl,--no-whole-archive -o sql.exe -Wl,--out-implib,libsql.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sql.dir\linklibs.rsp

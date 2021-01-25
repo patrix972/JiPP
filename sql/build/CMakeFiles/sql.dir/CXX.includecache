@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sql/Matrix.hpp
+sqlite3/sqlite3.h
+-
+iostream
+-
+
+../libs/sqlite3/sqlite3.h
+stdarg.h
+-
+
+C:/Users/Patryk/Desktop/visual_code/JiPP/sql/src/Matrix.cpp
+sql/Matrix.hpp
+C:/Users/Patryk/Desktop/visual_code/JiPP/sql/src/sql/Matrix.hpp
+iostream
+-
+fstream
+-
+time.h
+-
+string
+-
+sqlite3/sqlite3.h
+-
+sstream
+-
+
